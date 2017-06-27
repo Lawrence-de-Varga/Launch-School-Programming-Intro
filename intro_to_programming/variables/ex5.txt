@@ -1,0 +1,2 @@
+In the first code x is set to 3
+In the second bit of code x is unassigned

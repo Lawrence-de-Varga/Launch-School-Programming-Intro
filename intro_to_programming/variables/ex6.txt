@@ -1,0 +1,2 @@
+The error points out that the name 'shoes' has no assigned value in the current scope. 
+It may exist elsewhere.
