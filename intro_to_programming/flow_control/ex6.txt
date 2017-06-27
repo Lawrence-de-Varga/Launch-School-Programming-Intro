@@ -1,0 +1,5 @@
+You get the error because you left out the 'end' keyword for the if statement.
+Ruby thinks the end statement you wrote is for the if statement (although on the page it looks 
+like it's for the method), so it's looking for an end keyword for the method.
+You fix it by putting that in. 
+
