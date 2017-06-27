@@ -1,0 +1,5 @@
+1. evaluates to 2 (having set the variable 'x' equal to 2
+2. evaluates to nil after having printed a string
+3. evaluates to "Joe"
+4. evaluates to "four"
+5. nil

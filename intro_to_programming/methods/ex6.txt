@@ -1,0 +1,1 @@
+That you have given only one argument ot a function that expects 2.
