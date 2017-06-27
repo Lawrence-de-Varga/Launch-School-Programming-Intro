@@ -5,4 +5,3 @@ SyntaxError: (irb):2: syntax error, unexpected ')', expecting '}'
 
 # The error above tells you that you have typed a ')' instead of a '}' character
 #  e.g. perhaps you made a hash literal like so: {:a 3, :b 4)
-# it tells you that the error is one line 16 of your file
