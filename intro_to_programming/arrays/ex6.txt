@@ -1,0 +1,6 @@
+The problem is that 'margaret' is not an index of the array, you are using the index access
+syntax incorrectly. 
+
+the solution is:
+
+names[3] = 'jody'
