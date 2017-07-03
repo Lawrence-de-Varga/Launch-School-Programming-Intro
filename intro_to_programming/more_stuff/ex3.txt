@@ -1,0 +1,4 @@
+Exception handling is a way of keeping programs from simply 
+stopping when errors are rasied. 
+Instead of having the program stop, we can run some code logging the error (or doing whatever we 
+want), and continue running the rest of the program.

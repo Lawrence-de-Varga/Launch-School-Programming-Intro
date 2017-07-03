@@ -1,0 +1,3 @@
+The block parameter needs to be prefixed with an '&' character in order to 
+let the method know that it's argument will be a block.
+
